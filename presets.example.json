@@ -1,0 +1,14 @@
+{
+  "tools": [
+    {
+      "url": "https://devpost.com/hackathons",
+      "note": "Major hackathon platform",
+      "domain": "events"
+    },
+    {
+      "url": "https://mlh.io/seasons/2025/events",
+      "note": "Major League Hacking events",
+      "domain": "events"
+    }
+  ]
+}
